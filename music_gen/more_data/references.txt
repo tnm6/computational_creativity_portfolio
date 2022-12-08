@@ -1,29 +1,32 @@
-abc files taken from below sources
+abc files for dataset.txt taken from below sources
 
-http://trillian.mit.edu/~jc/music/abc/England/
-AGJ01.abc
-AGJ02.abc
-AGJ03.abc
-AGJ04.abc
-AGR01.abc
-AGR02.abc
-AGR03.abc
-AGR04.abc
-AGW01.abc
-AGW02.abc
-A_Rovin.abc
-AbbotsBromleyHornDance.abc
-AccomplishedMaid.abc
-AccordForPinewoods.abc
-AdieuMonAmi.abc
+Files taken from http://trillian.mit.edu/~jc/music/abc/England/ 
+  AGJ01.abc
+  AGJ02.abc
+  AGJ03.abc
+  AGJ04.abc
+  AGR01.abc
+  AGR02.abc
+  AGR03.abc
+  AGR04.abc
+  AGW01.abc
+  AGW02.abc
+  A_Rovin.abc
+  AbbotsBromleyHornDance.abc
+  AccomplishedMaid.abc
+  AccordForPinewoods.abc
+  AdieuMonAmi.abc
 
-All files in the nottingham db
+https://colinhume.com/
+  ABC.txt
 
-https://colinhume.com/ABC.txt
+Files taken from https://cobb.ece.wisc.edu/irish/Tunebook.html
+  Hornpipes
+  Jigs
+  Miscellaneous
+  O'Carolan
+  Polkas
 
-https://cobb.ece.wisc.edu/irish/Tunebook.html
-Hornpipes
-Jigs
-Miscellaneous
-O'Carolan
-Polkas
+All abc files in the nottingham music database -> https://abc.sourceforge.net/NMD/ 
+
+
